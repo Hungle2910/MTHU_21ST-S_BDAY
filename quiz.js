@@ -28,42 +28,42 @@ const questionData = {
 
 loreal:{
 question:"Hãy kể tên 3 thương hiệu mỹ phẩm thuộc tập đoàn? Ai là bà trùm mỹ phẩm tại Việt Nam?",
-keywords:["lancome","kiehl","ysl","loreal paris","maybelline","la roche","vichy","hannaholala"]
+keywords:["lancome","kiehl","ysl","loreal paris","maybelline","la roche","vichy","hannaholala","không biết"]
 },
 
 unilever:{
 question:"Unilever có mặt tại bao nhiêu quốc gia và sản phẩm quảng cáo trong video là gì?",
-keywords:["190","188","clear","aquafina"]
+keywords:["190","188","clear","aquafina","không biết"]
 },
 
 pg:{
 question:"Sản phẩm nào của P&G nổi tiếng với quảng cáo đánh bay vết bẩn?",
-keywords:["tide","mus"]
+keywords:["tide","mus","không biết"]
 },
 
 bosch:{
 question:"Bosch áp dụng chiến lược giá nào?",
-keywords:["premium"]
+keywords:["premium","không biết"]
 },
 
 vinamilk:{
 question:"Kể tên 5 dòng sản phẩm của Vinamilk.",
-keywords:["sua","kem","sua chua"]
+keywords:["sua","kem","sua chua","không biết"]
 },
 
 shopee:{
 question:"Vì sao Shopee tổ chức các chiến dịch 9.9 11.11 12.12?",
-keywords:["promotion","kích cầu","doanh số"]
+keywords:["promotion","kích cầu","doanh số","không biết"]
 },
 
 cocacola:{
 question:"Chiến dịch marketing nổi tiếng của Coca-Cola?",
-keywords:["share a coke"]
+keywords:["share a coke","không biết"]
 },
 
 chagee:{
 question:"Hoàng Sa và Trường Sa là của nước nào?",
-keywords:["viet nam"]
+keywords:["viet nam", "vietnam", "Việt Nam", "Việt nam","vietnam", "Việt Nam", "Việt nam","việt nam", "việt Nam", "việt nam","việt nam", "Việt Nam", "Việt nam","vietnam", "Viet Nam", "vietnam","vietnam", "Viet Nam", "vietnam"]
 }
 
 };
@@ -116,5 +116,6 @@ function retry(){
 document.getElementById("answerInput").value="";
 
 document.getElementById("result").innerText="";
+
 
 }
