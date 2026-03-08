@@ -27,43 +27,43 @@ document.getElementById("quizLogo").src = logos[company];
 const questionData = {
 
 loreal:{
-question:"Hãy kể tên 3 thương hiệu mỹ phẩm thuộc tập đoàn? Ai là bà trùm mỹ phẩm tại Việt Nam?",
-keywords:["i dont know","lancome","kiehl","ysl","loreal paris","maybelline","la roche","vichy","hannaholala","không biết"]
+question:"Web Gia Hưng làm có xịn không? (Hint: đáp án có chữ best)",
+keywords:["xịn số 1 thế giới","best website ever"]
 },
 
 unilever:{
-question:"Unilever có mặt tại bao nhiêu quốc gia và sản phẩm quảng cáo trong video là gì?",
-keywords:["190","188","clear","aquafina","không biết","i dont know"]
+question:"Nghe trọn vẹn clip Dược Sĩ Tiến hát Ánh Trăng Nói Hộ Lòng Tôi max volume và ngân nga theo hoặc rớt Unilever ?",
+keywords:["tôi đồng ý", "tôi chọn song ca với dược sĩ tiến", "tôi chọn rớt unilever","ok"]
 },
 
 pg:{
-question:"Sản phẩm nào của P&G nổi tiếng với quảng cáo đánh bay vết bẩn?",
-keywords:["tide","mus","không biết","i dont know"]
+question:"Đâu là doanh nghiệp về mảng giáo dục mà bạn yêu thích nhất ? (Hint: không phải Kiên Luyện !)",
+keywords:["Khai Hung Center","Trung tâm Khải Hưng","Khải Hưng","khải hưng"]
 },
 
 bosch:{
-question:"Bosch áp dụng chiến lược giá nào?",
-keywords:["premium","không biết","i dont know"]
+question:"Kiệt tác âm nhạc Người Âm Phủ cover tại Belleza được sản xuất vào năm nào? Hãy rủ tất cả thực khách tại nhà hàng cùng xem MV hoặc là rớt",
+keywords:["2017","đồng ý"]
 },
 
 vinamilk:{
-question:"Kể tên 5 dòng sản phẩm của Vinamilk.",
-keywords:["sua","kem","sua chua","không biết","i dont know"]
+question:"Ex nào của bạn từng đòi chôn QUốc An và kêu fc nigga truy sát Gia Hưng?",
+keywords:["Phong Bùi","phong bùi"]
 },
 
 shopee:{
 question:"Vì sao Shopee tổ chức các chiến dịch 9.9 11.11 12.12?",
-keywords:["promotion","kích cầu","doanh số","không biết","i dont know"]
+keywords:["promotion","kích cầu"]
 },
 
 cocacola:{
-question:"Chiến dịch marketing nổi tiếng của Coca-Cola?",
-keywords:["share a coke", "không biết","i dont know"]
+question:"Ni cũ nào của Mthu đã từng đến nhà Cẩm Tú?",
+keywords:["thiên lý","minh thiên"]
 },
 
 chagee:{
-question:"Hoàng Sa và Trường Sa là của nước nào?",
-keywords:["i dont know","viet nam", "vietnam", "Việt Nam", "Việt nam","Việt Nam", "Việt nam","việt nam", "việt Nam", "việt nam","việt nam", "Việt Nam", "Việt nam","vietnam", "Viet Nam", "vietnam","vietnam", "Viet Nam", "vietnam"]
+question:"Nếu có 10 tỷ bạn sẽ làm gì?",
+keywords:["Cho ghung và cẩm tú đi du lịch thụy sĩ"]
 }
 
 };
