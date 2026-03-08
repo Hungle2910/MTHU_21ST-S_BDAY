@@ -58,7 +58,7 @@ keywords:["promotion","kích cầu","doanh số","không biết"]
 
 cocacola:{
 question:"Chiến dịch marketing nổi tiếng của Coca-Cola?",
-keywords:["share a coke","không biết"]
+keywords:["share a coke", "không biết"]
 },
 
 chagee:{
@@ -116,6 +116,5 @@ function retry(){
 document.getElementById("answerInput").value="";
 
 document.getElementById("result").innerText="";
-
 
 }
