@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="UTF-8">
+<title>Interview Question</title>
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
+</head>
+
+<body>
+
+<div class="quiz-wrapper">
+
+<div class="quiz-card">
+
+<img id="quizLogo" class="quiz-logo">
+
+<h1 id="companyTitle"></h1>
+
+<p id="questionText" class="quiz-question"></p>
+
+<textarea 
+id="answerInput" 
+class="quiz-input"
+placeholder="Type your answer here..."
+></textarea>
+
+<div class="quiz-buttons">
+
+<button onclick="checkAnswer()" class="quiz-btn">
+Submit Answer
+</button>
+
+<button onclick="retry()" class="quiz-retry">
+Retry
+</button>
+
+</div>
+
+<p id="result" class="quiz-result"></p>
+
+</div>
+
+</div>
+
+<script src="quiz.js"></script>
+
+</body>
+
+</html>
