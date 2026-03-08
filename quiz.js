@@ -28,42 +28,42 @@ const questionData = {
 
 loreal:{
 question:"Hãy kể tên 3 thương hiệu mỹ phẩm thuộc tập đoàn? Ai là bà trùm mỹ phẩm tại Việt Nam?",
-keywords:["lancome","kiehl","ysl","loreal paris","maybelline","la roche","vichy","hannaholala","không biết"]
+keywords:["i dont know","lancome","kiehl","ysl","loreal paris","maybelline","la roche","vichy","hannaholala","không biết"]
 },
 
 unilever:{
 question:"Unilever có mặt tại bao nhiêu quốc gia và sản phẩm quảng cáo trong video là gì?",
-keywords:["190","188","clear","aquafina","không biết"]
+keywords:["190","188","clear","aquafina","không biết","i dont know"]
 },
 
 pg:{
 question:"Sản phẩm nào của P&G nổi tiếng với quảng cáo đánh bay vết bẩn?",
-keywords:["tide","mus","không biết"]
+keywords:["tide","mus","không biết","i dont know"]
 },
 
 bosch:{
 question:"Bosch áp dụng chiến lược giá nào?",
-keywords:["premium","không biết"]
+keywords:["premium","không biết","i dont know"]
 },
 
 vinamilk:{
 question:"Kể tên 5 dòng sản phẩm của Vinamilk.",
-keywords:["sua","kem","sua chua","không biết"]
+keywords:["sua","kem","sua chua","không biết","i dont know"]
 },
 
 shopee:{
 question:"Vì sao Shopee tổ chức các chiến dịch 9.9 11.11 12.12?",
-keywords:["promotion","kích cầu","doanh số","không biết"]
+keywords:["promotion","kích cầu","doanh số","không biết","i dont know"]
 },
 
 cocacola:{
 question:"Chiến dịch marketing nổi tiếng của Coca-Cola?",
-keywords:["share a coke", "không biết"]
+keywords:["share a coke", "không biết","i dont know"]
 },
 
 chagee:{
 question:"Hoàng Sa và Trường Sa là của nước nào?",
-keywords:["viet nam", "vietnam", "Việt Nam", "Việt nam","vietnam", "Việt Nam", "Việt nam","việt nam", "việt Nam", "việt nam","việt nam", "Việt Nam", "Việt nam","vietnam", "Viet Nam", "vietnam","vietnam", "Viet Nam", "vietnam"]
+keywords:["i dont know","viet nam", "vietnam", "Việt Nam", "Việt nam","Việt Nam", "Việt nam","việt nam", "việt Nam", "việt nam","việt nam", "Việt Nam", "Việt nam","vietnam", "Viet Nam", "vietnam","vietnam", "Viet Nam", "vietnam"]
 }
 
 };
